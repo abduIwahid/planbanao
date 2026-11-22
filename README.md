@@ -5,6 +5,10 @@
 
 **Live web app:** https://mtm-hackathon-26.vercel.app - upload your own message pack and the same agent runs in your browser: tabbed plan, fact ledger, decision evidence, risks and recommendations, a what-if simulator, agent chat, persistent sessions and the full trace - plus a separate visual dashboard page (pinned sidebar, charts, stacked plan layers, health rings) and Landing, How it works, About, Privacy and Terms pages, all responsive with light and dark modes.
 
+## Result
+
+Team AXIONS did not place at MTM Hackathon '26. All three members received participation certificates. The project lives on as **Plan Banao** (live at https://planbanao.vercel.app).
+
 ## The task
 
 Build an agent system that reads a pack of messages (emails, WhatsApp texts, notices — English, Urdu script and Roman Urdu; some irrelevant, some out of date) and plans a 4-hour physical hackathon across five areas: **venue, schedule, food, judging, budget**. At judging, the system runs on an unseen pack with different numbers, wording and senders.
